@@ -20,7 +20,7 @@ Installing the requirements:
 pip install -r requirements.txt
 ```
 
-on top of that, you need to install uvicorn to run the server locally:
+additionally uvicorn is required to run the server locally:
 
 ```bash
 pip install uvicorn
